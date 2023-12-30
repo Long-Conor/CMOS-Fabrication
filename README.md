@@ -5,4 +5,4 @@
 * Familiarze with transistor characteristics and operating modes of NMOS/PMOS
 * Analysis of simulated results for different CMOS Logic Gates and Gate-Level Design
 
-- To observe the full-custom design flow process, access to the zip file under the name "EEET2475 - Nguyen Huynh Hai Long".
+To observe the full-custom design flow process, access to the zip file under the name "EEET2475 - Nguyen Huynh Hai Long".
